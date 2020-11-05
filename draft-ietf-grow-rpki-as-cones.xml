@@ -108,7 +108,7 @@
 			</section>
 			<section title="AS-Cone objects format">
 				<t>
-					AS-Cone and Policy Definition objects use of the CMS object format defined in <xref target="RFC6488" />. 
+					AS-Cone and Policy Definition objects use the CMS object format defined in <xref target="RFC6488" />. 
 					AS-Cones are composed of two types of distinct objects:
 				</t>
 				<t><list style="symbols">
